@@ -1,8 +1,5 @@
 {
   "name": "toot-relay",
-  "features": {
-    "cloud": "v2"
-  },
   "env": {
     "P12_BASE64": "@p12-base64"
   },
